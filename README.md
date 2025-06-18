@@ -62,7 +62,7 @@ This project foregrounds **explainability and ethical alignment**:
 ## 📤 Repository Structure
 
 <p align="center">
-  <img src="synthetic/assets/repository_str.jpg" alt="MIMIC-CDS Overview" width="600"/>
+  <img src="synthetic/assets/repository_str.jpg" alt="MIMIC-CDS Overview" width="400"/>
 </p>
 
 

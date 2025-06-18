@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">🏥 MIMIC-CDS</h1>
 <h3 align="center"><i>Modular CDS Framework for Real ICU Data (MIMIC-IV)</i></h3>
 
@@ -90,3 +91,6 @@ jupyter lab
 
 If using this project in academic or research work, please cite the MIMIC-IV dataset per [MIT-LCP guidelines](https://mimic.mit.edu/docs/iv/modules/data-reference/).
 
+=======
+# mimiccds
+>>>>>>> 1c16d4339fe2c84d008b1cab57beb65d5bcc679f

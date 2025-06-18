@@ -1,9 +1,13 @@
 MIT License
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 MIT License
 
 Copyright (c) 2025 Rand Sobczak Jr
+=======
+Copyright (c) 2025 Rand Sobczak Jr.
+>>>>>>> 1c16d4339fe2c84d008b1cab57beb65d5bcc679f
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,4 +26,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+<<<<<<< HEAD
 >>>>>>> abbae54e65ef32291f4e57462534a27654894d64
+=======
+>>>>>>> 1c16d4339fe2c84d008b1cab57beb65d5bcc679f

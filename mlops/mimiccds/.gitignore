@@ -1,0 +1,10 @@
+# .gitignore
+data/
+output/
+*.ipynb_checkpoints
+__pycache__/
+.DS_Store
+.env
+*.gz
+*.csv
+*.json

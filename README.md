@@ -3,16 +3,16 @@
 <h3 align="center"><i>Modular CDS Framework for Real ICU Data (MIMIC-IV)</i></h3>
 
 <p align="center">
+  <img src="synthetic/assets/tagline_pht.png" alt="MIMIC-CDS Overview" width="400"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MIMIC--IV-v2.2-lightgrey" />
   <img src="https://img.shields.io/badge/FHIR-compliant-success" />
   <img src="https://img.shields.io/badge/SHAP-disabled-red" />
   <img src="https://img.shields.io/badge/Explainability-Permutation%20Importance-blueviolet" />
   <img src="https://img.shields.io/badge/Python-3.10-blue" />
   <img src="https://img.shields.io/badge/License-MIT-green.svg" />
-</p>
-
-<p align="center">
-  <img src="synthetic/assets/tagline_pht.png" alt="MIMIC-CDS Overview" width="400"/>
 </p>
 
 ---

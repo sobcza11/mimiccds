@@ -11,6 +11,10 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg" />
 </p>
 
+<p align="center">
+  <img src="synthetic/assets/tagline_pht.png" alt="MIMIC-CDS Overview" width="400"/>
+</p>
+
 ---
 
 ## 🧠 Objective

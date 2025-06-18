@@ -1,0 +1,26 @@
+# 🧠 Jupyter & Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# ⚙️ Environments
+.env
+*.env
+
+# 🖥️ OS-specific
+.DS_Store
+
+# 📦 Binary artifacts
+*.log
+*.exe
+*.joblib
+*.pkl
+
+# 🔒 Real clinical data (not tracked in Git)
+data/mimiciv/
+data/fundus_photos/
+data/labels_brset/
+
+# 🧾 checksum & changelog files (if large or sensitive)
+data/CHANGELOG
+data/SHA256SUMS
